@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sounds/fail-buzzer-04.wav</file>
+        <file>sounds/sfx-victory5.wav</file>
+    </qresource>
+</RCC>
